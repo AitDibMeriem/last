@@ -1,6 +1,7 @@
 body {
     font-family: system-ui;
-    background: black;
+    background: rgb(204, 165, 165);
+    
     color: white;
     text-align: center;
   }
@@ -9,7 +10,7 @@ body {
     text-align: center;
     margin: 0%;
     height: 100px;
-    background-color: #e6dfa8;
+    background-color: #8f3056;
     color: black;
   }
   
